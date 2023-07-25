@@ -462,18 +462,11 @@ flex-shrink: 0;
 border: 1px solid var(--cornflower, #E7E9FC);
 background: var(--white, #FFF);
 width: calc((100% - 48px) / 3); 
-/* display: inline-flex;
-flex-direction: column;
-align-items: flex-start; */
 }
 
 .container-link {
    padding: 32px 16px;
-   border: 1px solid #e7e9fc; 
-   border-top: none; 
-   /* display: inline-flex;
-   flex-direction: column;
-   align-items: flex-start; */
+   border: 1px solid #e7e9fc;
 }
 
 .portfolio-link {
