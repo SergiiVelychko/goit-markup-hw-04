@@ -684,7 +684,7 @@ img {
 
 /* ---------------------------modal--------------------- */
 
-.modal {
+.backdrop {
    position: fixed;
    top: 0;
    left: 0;
@@ -700,7 +700,7 @@ img {
    pointer-events: none;
 }
 
-.backdrop {
+.modal {
    position: absolute;
    top: 50%;
    left: 50%;
