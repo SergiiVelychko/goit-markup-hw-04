@@ -737,7 +737,7 @@ img {
 }
 
 .modal-button:hover .modal-button-icons,
-.modal-button:hover .modal-button-icons {
+.modal-button:focus .modal-button-icons {
    fill: #FFFFFF;
 }
 
